@@ -1,9 +1,0 @@
-Architecture: amd64
-Description: TemplateMethod built using CMake
-Maintainer: Gleb Wetr <glebwtr@example.com>
-Package: templatemethod
-Priority: optional
-Section: devel
-Version: 1.0.0
-Installed-Size: 26
-

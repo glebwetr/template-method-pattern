@@ -1,2 +1,0 @@
-TemplateMethodTest 1 0.00384348
----

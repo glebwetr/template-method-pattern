@@ -1,1 +1,0 @@
-/usr/bin/template_method
