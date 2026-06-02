@@ -1,0 +1,19 @@
+Start testing: Jun 02 02:17 MSK
+----------------------------------------------------------
+1/1 Testing: TemplateMethodTest
+1/1 Test: TemplateMethodTest
+Command: "/home/glebwetr/template-method-project/build/test_template_method"
+Directory: /home/glebwetr/template-method-project/build
+"TemplateMethodTest" start time: Jun 02 02:17 MSK
+Output:
+----------------------------------------------------------
+Test passed!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TemplateMethodTest" end time: Jun 02 02:17 MSK
+"TemplateMethodTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 02 02:17 MSK
